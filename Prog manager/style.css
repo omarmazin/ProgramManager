@@ -1,0 +1,78 @@
+#UpperBar{
+    position: fixed;
+    width: 100%;
+    height: 74px;
+    z-index:1;
+    left: 0px;
+    top: 0px;
+    background: #776d6b
+    
+}
+#Headline{
+    position: fixed;
+    display: flex;
+    width: 220px;
+    height: 41px;
+    left: 25px;
+    top: 20px;
+    z-index:2;
+    font-family: cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #FFFFFF;
+}
+#Backg{
+    position: absolute;
+    width: 220px;
+    height: 41px;
+    left: 30px;
+    top: 189px;
+
+    font-family:cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+}
+#BackSel{
+    position: absolute;
+    width: 130px;
+    height: 20px;
+    left: 230px;
+    top: 188px;
+}
+#ProgName{
+    position: absolute;
+    width: 220px;
+    height: 41px;
+    left: 30px;
+    top: 265px;
+    
+    font-family: cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    
+    color: #0A0A0A;
+}
+#Progin{
+    position: absolute;
+    width: 10px;
+    height: 30px;
+    left: 200px;
+    top: 266px;
+    
+}
+#su{
+    position: absolute;
+    width: 10px;
+    height: 30px;
+    margin-left: 150px;
+    margin-top: 370px;
+}
